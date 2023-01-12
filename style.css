@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(7, 7, 7);
+}
+.time {
+    color: aliceblue;
+    text-align: center;
+    }
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+button {
+    height: 2em;
+    width: 5em;
+    border: none;
+    border-radius: 60px;
+}
+button:hover{
+    cursor: pointer;
+}
+.play{
+    background-color: rgb(25, 243, 152);
+}
+.pause{
+    background-color: rgb(225, 236, 73);
+}
+.stop{
+    background-color: rgb(231, 59, 59);
+}
